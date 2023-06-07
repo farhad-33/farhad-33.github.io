@@ -21,4 +21,4 @@
 Welcome home
 127.0.0.1:8000
 ```
-🔗 [Check out my other profile](https://github.com/leo-bit66) <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20" height="20">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20" height="20">
