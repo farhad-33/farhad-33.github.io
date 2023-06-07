@@ -21,4 +21,3 @@
 Welcome home
 127.0.0.1:8000
 ```
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20" height="20">
